@@ -3,11 +3,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CabPiz&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabPiz&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/CabPiz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CabPiz&theme=radical&background=0d1117&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <br>
