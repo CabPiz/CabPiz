@@ -16,7 +16,8 @@
   <tr>
     <td width="100%" align="left">
       <h3>🎯 Ascend</h3>
-      <p>Plataforma iterativa de estudos de alto nível voltada para aprovação em concursos públicos. Desenvolvida com foco em performance, experiência de usuário e adaptabilidade.</p>
+      <p>Plataforma iterativa de estudos de alto nível voltada para aprovação em concursos públicos. Desenvolvida com foco em performance, experiência de usuário e adaptabilidade.</p><br>
+      <p>Ascend é o meu primeiro site. Estou desenvolvendo do 0 usando a IA do Gemini para me ajudar a programar.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
