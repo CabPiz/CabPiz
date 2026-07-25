@@ -10,6 +10,25 @@
 
 <br>
 
+### 🚀 Projeto em Destaque
+
+<table width="100%">
+  <tr>
+    <td width="100%" align="left">
+      <h3>🎯 Ascend</h3>
+      <p>Plataforma iterativa de estudos de alto nível voltada para aprovação em concursos públicos. Desenvolvida com foco em performance, experiência de usuário e adaptabilidade.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
@@ -36,4 +55,10 @@
   <a href="https://www.linkedin.com/in/cesarantonio" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CabPiz&theme=radical&color=orange" alt="Profile Views" />
 </p>
