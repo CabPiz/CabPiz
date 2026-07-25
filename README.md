@@ -10,7 +10,7 @@
 
 <br>
 
-### 🛠️ Tecnologias e Ferramentas (Principalmente no projeto Ascend)
+### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript" />
