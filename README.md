@@ -27,7 +27,10 @@
         <img src="https://img.shields.io/badge/Linkup_SDK-F97316?style=flat&logoColor=white" />
         <img src="https://img.shields.io/badge/RevenueCat-E34040?style=flat&logoColor=white" />
       </p>
-      <p>📦 <a href="https://github.com/CabPiz/elucya-shield"><code>CabPiz/elucya-shield</code></a></p>
+      <p>
+        📦 <a href="https://github.com/CabPiz/elucya-shield"><code>CabPiz/elucya-shield</code></a> &nbsp;·&nbsp;
+        🌐 <a href="https://elucya-shield.onrender.com/"><strong>elucya-shield.onrender.com</strong></a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -40,7 +43,10 @@
         <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub_CLI-181717?style=flat&logo=github&logoColor=white" />
       </p>
-      <p>📦 <a href="https://github.com/CabPiz/kairos-labs"><code>CabPiz/kairos-labs</code></a></p>
+      <p>
+        📦 <a href="https://github.com/CabPiz/kairos-labs"><code>CabPiz/kairos-labs</code></a> &nbsp;·&nbsp;
+        🌐 <a href="https://kairos-labs-lake.vercel.app/pt"><strong>kairos-labs-lake.vercel.app</strong></a>
+      </p>
     </td>
   </tr>
   <tr>
