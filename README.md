@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CabPiz&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Builder;Fundador+da+Kairos+Labs;Next.js+%2B+TypeScript+%2B+LLMs;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
 </p>
 
 ---
